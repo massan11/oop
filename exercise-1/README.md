@@ -1,1 +1,1 @@
-this is a placeholder file
+All exercises on GitHub: "github.com/massan11/oop"
